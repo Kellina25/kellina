@@ -7,7 +7,7 @@ Just a wandering dev with a head full of code and a heart full of anime."**
 
 ## 🌟 About Me  
 
-🎀 **Name:** Your Name Here  
+🎀 **Name:** Kellina
 💻 **Stack:** JS | Python | React | Tailwind | Node  
 🎬 **Fav Anime:** One Piece | Attack on Titan | Spirited Away  
 🎧 **Vibes:** Lofi beats & late-night coding  
