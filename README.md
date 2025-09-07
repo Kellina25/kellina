@@ -50,24 +50,10 @@ Just a wandering dev with a head full of code and a heart full of anime."**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellina25&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellina25&layout=compact&theme=synthwave)
-javascript
-python
-java
-php
-react
 ---
 
 ## 📬 Let's Connect  
 
 [![Twitter](https://img.shields.io/badge/Twitter-@MsKellina-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
----
-
-<div align="center">
-  
-🌸 *Thanks for visiting! May your day be as bright as an anime opening song.* 🌸  
-
-![Anime Girl](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-
-</div>
+--
 
