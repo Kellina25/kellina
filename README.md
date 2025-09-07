@@ -48,9 +48,9 @@ Just a wandering dev with a head full of code and a heart full of anime."**
 
 ## 🎯 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellina25&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellina25&layout=compact&theme=synthwave)
 
 ---
 
