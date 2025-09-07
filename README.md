@@ -51,15 +51,16 @@ Just a wandering dev with a head full of code and a heart full of anime."**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellina25&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellina25&layout=compact&theme=synthwave)
-
+javascript
+python
+java
+php
+react
 ---
 
 ## 📬 Let's Connect  
 
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Discord](https://img.shields.io/badge/Discord-YourTag-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white)](#)  
-
+[![Twitter](https://img.shields.io/badge/Twitter-@MsKellina-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
 ---
 
 <div align="center">
